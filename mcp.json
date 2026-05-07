@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "huntertech-vendor-insights": {
+      "url": "https://www.huntertech.io/api/v1/mcp"
+    }
+  }
+}
