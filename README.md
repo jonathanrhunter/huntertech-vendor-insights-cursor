@@ -1,6 +1,6 @@
 # Huntertech.io
 
-Professional infrastructure monitoring tools and business solutions for Zscaler networks.
+Unified vendor insights for SaaS applications; incidents, maintenance, updates, advisories, security, and more.
 
 ## Huntertech Vendor Insights Cursor Plugin
 
