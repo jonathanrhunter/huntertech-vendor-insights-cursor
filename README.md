@@ -4,7 +4,7 @@ Professional infrastructure monitoring tools and business solutions for Zscaler 
 
 ## Huntertech Vendor Insights Cursor Plugin
 
-Huntertech Vendor Insights is a hosted MCP server for public infrastructure incident status across monitored SaaS, cloud, security, developer, and infrastructure vendors. Cursor can use it to ask questions like "Is Zscaler having an outage?" or "Are any monitored vendors having issues right now?"
+Huntertech Vendor Insights is a hosted MCP server for public infrastructure incident status across monitored SaaS, cloud, security, developer, and infrastructure vendors. Cursor can use it to ask questions like "Is <vendor> having an outage?" or "Are any monitored vendors having issues right now?"
 
 ### What It Provides
 
